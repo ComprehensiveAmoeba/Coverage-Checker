@@ -106,7 +106,7 @@ def main():
                     if targets_input:
                         asin_targets_dict[asin] = targets_input.split('\n')
 
-    uploaded_file = st.file_uploader("Upload an Excel File", type=["xlsx"])
+    uploaded_file = st.file_uploader("Upload a BMT output", type=["xlsx"])
 
     if uploaded_file:
         try:
