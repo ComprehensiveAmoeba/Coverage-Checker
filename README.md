@@ -37,4 +37,4 @@ Streamlit app designed to check coverage
 
 ---
 
-Developed with streamlit ❤️ and ☕ by Comprehensive Amoeba ;D
+Developed with streamlit ❤️ by Comprehensive Amoeba ;D
